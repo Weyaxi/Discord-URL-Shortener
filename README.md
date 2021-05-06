@@ -14,7 +14,7 @@
 
 # Kodun Basitçe Kullanımı
 
-⭐ #linkkısalt <url>
+⭐ #linkkısalt <kısaltılacaklink>
 
 # Botun Cevabı
 
