@@ -29,4 +29,4 @@ async def linkkısalt_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):
         await ctx.send('Lütfen kısaltmak istedğiniz linki komut sonrasında belirtiniz. ') 
 
-bot.run('ODM5NzU0Mjc5MjQ5MjQ4Mjk2.YJOQHg.A4yFaGHxUEMLGqSucftJmK4lHDo')       
+bot.run('TOKEN')       
