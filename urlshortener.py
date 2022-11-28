@@ -4,6 +4,7 @@ import pyshorteners
 
 bot = commands.Bot(command_prefix=("#"))
 
+
 @bot.event
 async def on_ready():
     print('----------------------------')
@@ -12,7 +13,7 @@ async def on_ready():
     print('----------------------------')
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"#linkkısalt"))
   
-
+# dsdsdsd
 @bot.command()
 async def linkkısalt(ctx, url):
     description = str(ctx.guild.description)
