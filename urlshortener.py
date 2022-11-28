@@ -13,7 +13,7 @@ async def on_ready():
     print('----------------------------')
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"#linkkısalt"))
   
-# dsdsdsd
+# Pycharm git denemesi
 @bot.command()
 async def linkkısalt(ctx, url):
     description = str(ctx.guild.description)
