@@ -1,6 +1,5 @@
 import discord
 from discord.ext import commands
-
 import pyshorteners
 
 bot = commands.Bot(command_prefix=("#"))
